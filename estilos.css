@@ -1,0 +1,17 @@
+h1{
+    color:blue;
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 2px;
+    border-color: yellowgreen;
+    align-content: center;
+    text-transform: uppercase;
+}
+p{
+    background-color: black;
+    color: white;
+    border-radius: 15px;
+    padding: 2px 2px 3px 3px ;
+    
+
+}
